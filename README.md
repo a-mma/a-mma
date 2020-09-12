@@ -1,5 +1,5 @@
 # a-mma
-`Amma` is a cross-language, Indian word for `Mother`. Mother is a symbol of care and affection. `a-mma` pronounced as `eəmmʌ` (loosely, `emma`) is a unique name that we would like to give this character in the digital world for world-wide recognition.
+`Amma` is a cross-language, Indian word for `Mother`. Mother is a symbol of care and affection. `a-mma` pronounced as `eəmmʌ` (loosely, `emma`) is a unique name that we would like to give this agender character in the digital world for world-wide recognition.
 
 `a-mma` is a non-profit, community first initiative. Currently, in the short term, it's a volunteered `umbrella label` for projects, research, and activities that aligns within the space of `Decentralised Collective Intelligence`. In the medium to long term, it is destined to become a non-profit organization and then to an autonomous organization with decentralized governance.
 
