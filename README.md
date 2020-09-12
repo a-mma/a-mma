@@ -3,7 +3,7 @@
 
 `a-mma` is a non-profit, community first initiative. Currently, in the short term, it's a volunteered `umbrella label` for projects, research, and activities that aligns within the space of `Decentralised Collective Intelligence`. In the medium to long term, it is destined to become a non-profit organization and then to an autonomous organization with decentralized governance.
 
-`a-mma` will function as a community hub for efforts that happen under `Decentralised Collective Intelligence`. `a-mma` could ensure a shared, thriving community which gives a sandbox (`womb`) for the efforts in the space through mutual benefit. `a-mma` is very open to personals, startups, enterprises, and institutions who are compliant with the very basic rule set that respects knowledge sharing, open-sourcing, and community involvement.
+`a-mma` will function as a community hub for efforts that happen under `Decentralised Collective Intelligence`. `a-mma` could ensure a shared, thriving community which gives a sandbox (`womb`) for the efforts in the space through mutual benefit. `a-mma` is very open to individuals, startups, enterprises, and institutions who are compliant with the very basic rule set that respects knowledge sharing, open-sourcing, and community involvement.
 
 Currently, `a-mma` is at its very inception stage. It needs to prove it's capabilities through initially incubated projects before moving into a wider audience. 
 
