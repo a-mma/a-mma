@@ -11,7 +11,7 @@ Currently, `a-mma` is at its very inception stage. It needs to prove it's capabi
 1. Agent - An agent can be a human, algorithm, hardware, or other life forms that exchange information and takes action in a common environment.
 
 ## List of Incubated Projects
-#### Open Source Platforms
+### Open Source Softwares
 1. [Aquila Network](https://github.com/Aquila-Network) - One of the base problems to be solved in the Decentralized AI space is the distributed storage and discovery of data. We already have a lot of creative minds hacking in this space. IPFS is one such solution. However, the agents in this decentralized system require another thin layer on top of this data layer - which is the discovery layer, to find information efficiently for processing and decision making. Aquila Network is an initiative to make this happen in a sustainable way possible.
 
 ### Open Research
