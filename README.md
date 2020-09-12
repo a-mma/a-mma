@@ -7,6 +7,9 @@
 
 Currently, `a-mma` is at its very inception stage. It needs to prove it's capabilities through initially incubated projects before moving into a wider audience. 
 
+#### Keep on updated
+1. [Our Medium Blog](https://medium.com/a-mma)
+
 #### Terminology
 1. Agent - An agent can be a human, algorithm, hardware, or other life forms that exchange information and takes action in a common environment.
 
