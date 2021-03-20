@@ -15,6 +15,9 @@ Currently, `a-mma` is at its very inception stage. It needs to prove it's capabi
 
 ## List of Incubated Projects
 ### Open Source Softwares
+#### Under incubation
+1. [T2 Space](https://type2.space) - T2 Space initiative would like to focus on optimizing energy intermittency problems with software. Our aim is to utilize stranded energy and flatten out intermittency at consumer level through automation.
+#### Matured
 1. [Aquila Network](https://github.com/Aquila-Network) - One of the base problems to be solved in the Decentralized AI space is the distributed storage and discovery of data. We already have a lot of creative minds hacking in this space. IPFS is one such solution. However, the agents in this decentralized system require another thin layer on top of this data layer - which is the discovery layer, to find information efficiently for processing and decision making. Aquila Network is an initiative to make this happen in a sustainable way possible.
 
 ### Open Research
