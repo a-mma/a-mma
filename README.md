@@ -22,3 +22,6 @@ Currently, `a-mma` is at its very inception stage. It needs to prove it's capabi
 
 ### Open Research
 1. [Towards Autonomous Organizations](https://github.com/a-mma/towards_autonomous_organizations) - A unified protocol for Communication and consensus between agents is inevitable. This open research (in progress) explores some aspects of it in an agent-centric way. 
+
+### 3 Years at a-mma
+![amma_3yrs](https://user-images.githubusercontent.com/19545678/112959173-c866cb80-9160-11eb-9a50-9f633a42d15c.png)
